@@ -1,0 +1,22 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+  }
+  
+  .product-card-container1 {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    height: auto;
+  }
+  
+  .product-image1 {
+    height: 200px;
+    border-radius: 50%;
+  }
+
+ 
+  
+  
